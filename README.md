@@ -1,5 +1,5 @@
 # My Latest Projects
-
+- **GitHub User Search**, [Repository](https://github.com/TylerEikenberg/GitHub-User-Search), [Deployed Site](https://github-users-te.netlify.com/)
 - **CoTripper**, [Repository](https://github.com/CotripperPlatform/CoTrip)  
   A website for mothers to connect and plan trips together.
 - **PyThoughts**, [Repository](https://github.com/TylerEikenberg/Python-Note-App)  
